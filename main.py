@@ -1,6 +1,7 @@
 # This example requires the 'message_content' privileged intents
 
 import discord
+import os
 from discord.ext import commands
 from discord.utils import get
 
